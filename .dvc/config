@@ -1,0 +1,4 @@
+[core]
+    remote = localstorage
+['remote "localstorage"']
+    url = D:\\10Academy\\Projects\\week3\\Dvc-Management
